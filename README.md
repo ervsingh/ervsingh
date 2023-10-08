@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/vandana-singh-a93632131/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am half-finished
+- ⚡ Fun fact: I put the 'fun' in 'functional programming'. 🎉
 
 ### Visitor Counter  ❤️  <p>                   </p> <img src="https://profile-counter.glitch.me/ervsingh/count.svg" />
