@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a data engineer in Infosys
-- 🌱 I’m currently learning  new  Big Data technologies
+- 🌱 I’m currently working on  new  Big Data technologies
 - 👯 I’m looking to collaborate on Data Engineering Hackathons or projects
 - 🤔 I’m looking for help with Computational Finance
 - 💬 Ask me about Anything
